@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522886326 source:d:\fede macri\clase 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pedirdatos.h"
+
+1522886703 d:\fede macri\clase 4\pedirdatos.h
+	<stdio.h>
+	<stdlib.h>
+
+1522886712 source:d:\fede macri\clase 4\pedirdatos.c
+
