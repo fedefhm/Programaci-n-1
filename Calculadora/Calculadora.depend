@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523420938 source:c:\users\usuario\desktop\utn programacion\2-primer cuatrimestre\programaciÓn y laboratorio 1\teoría y práctica en casa de las clases\calculadora\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
+1523419948 source:c:\users\usuario\desktop\utn programacion\2-primer cuatrimestre\programaciÓn y laboratorio 1\teoría y práctica en casa de las clases\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1523416860 c:\users\usuario\desktop\utn programacion\2-primer cuatrimestre\programaciÓn y laboratorio 1\teoría y práctica en casa de las clases\calculadora\calculadora.h
+
